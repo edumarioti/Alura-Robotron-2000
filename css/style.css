@@ -9,9 +9,10 @@
 }
 
 body {
-    background: url(../img/fundo.jpg);
+    /* background: url(../img/fundo.png);
     background-position: center center;
-    background-size: cover cover;
+    background-size: cover cover; */
+    background-image: linear-gradient(90deg, #011414 0%, #023535 60%);
     padding: 0;
     margin: 0;
     font-weight: 300;
